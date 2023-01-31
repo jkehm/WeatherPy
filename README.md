@@ -7,8 +7,14 @@ For this, we will incorporate the weather description data into the PlanMyTrip A
 
 ### Deliverables
 Deliverable 1: Retrieve Weather Data
+
 ![Guess this didn't work](https://github.com/jkehm/WeatherPy/blob/main/Weather_Database/WeatherPy_Database.png)
+
 Deliverable 2: Create a Customer Travel Destinations Map
+
+
 ![Guess this didn't work](https://github.com/jkehm/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+
 Deliverable 3: Create a Travel Itinerary Map
+
 ![Guess this didn't work](https://github.com/jkehm/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
